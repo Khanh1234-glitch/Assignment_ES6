@@ -36,3 +36,4 @@ const changeColor = () => {
         result.classList.toggleclass('pallet');
     })
 }
+//đákadkqơkoqưdk
